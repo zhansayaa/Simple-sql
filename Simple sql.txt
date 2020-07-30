@@ -1,0 +1,5 @@
+1. Retrieve information about student and calculate their final grade from each course
+2. Show the information about the section, what courses under the section and capacity of the
+section. Also, retrieve information about how many students enrolled in the section
+3. Convert the grade which you get from the first task to letter nominal (Use Grade_conversion
+table) 
